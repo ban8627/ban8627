@@ -1,17 +1,18 @@
 ### Hi there 👋
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... Frontend Develop in Green coumputer art 
+- 📫 E-mail: ... ban8627@gmail.com
 <!--
 **ban8627/ban8627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Frontend Develop in Green coumputer art 
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 E-mail: ... ban8627@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
