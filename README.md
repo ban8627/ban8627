@@ -1,22 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jiseop%20GitHub&fontSize=90&animation=fadeIn)
 ### Hi there 👋
+편의성을 우선시하는 개발자가 되고 싶은 류지섭 입니다.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Frontend Develop in Green coumputer art 
 - 📫 E-mail: ... ban8627@gmail.com
-<!--
-**ban8627/ban8627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 About Me ...
+-- FrontEnd Developer
 
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 [![Ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ban8627)](https://github.com/ban8627/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ban8627&layout=compact)](https://github.com/ban8627/github-readme-stats)
 
